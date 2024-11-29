@@ -1,0 +1,8 @@
+﻿  Stone-Paper-Scissor Game Solution.cpp
+C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution.cpp(168,28): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution.cpp(169,33): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution.cpp(170,34): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution.cpp(171,27): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution.cpp(172,28): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution\Stone-Paper-Scissor Game Solution.cpp(173,28): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Stone-Paper-Scissor Game Solution.vcxproj -> C:\Users\SALA77\OneDrive\Bureau\Projects-Github\Projects-C++\Stone-Paper-Scissor Game Solution\x64\Debug\Stone-Paper-Scissor Game Solution.exe
